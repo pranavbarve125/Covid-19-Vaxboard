@@ -5,4 +5,4 @@
 - Used PowerBI visuals for maps to visualize geographical data.
 - Added different data slicers and selectors to visualize required data.
 
-[](visualization.mp4)
+![Alt Text](visualization.mp4)

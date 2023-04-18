@@ -4,3 +4,5 @@
 - Integrated datasets to obtain a meaningful dashboard.
 - Used PowerBI visuals for maps to visualize geographical data.
 - Added different data slicers and selectors to visualize required data.
+
+[![Alt text]()](visualization.mp4)

@@ -9,4 +9,4 @@
 
 Check out the video :
 
-![Link to Video](https://youtu.be/Jniyst3tSiA)
+[Link to Video](https://youtu.be/Jniyst3tSiA)

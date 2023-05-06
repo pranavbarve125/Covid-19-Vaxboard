@@ -5,4 +5,4 @@
 - Used PowerBI visuals for maps to visualize geographical data.
 - Added different data slicers and selectors to visualize required data.
 
-[![Vaxboard](thumbnail.PNG)](visualization.mp4)
+[![Vaxboard](thumbnail.PNG)](https://youtu.be/Jniyst3tSiA)

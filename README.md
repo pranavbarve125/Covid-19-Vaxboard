@@ -6,3 +6,7 @@
 - Added different data slicers and selectors to visualize required data.
 
 [![Vaxboard](thumbnail.PNG)](https://youtu.be/Jniyst3tSiA)
+
+Check out the video :
+
+[![Link to Video]](https://youtu.be/Jniyst3tSiA)
